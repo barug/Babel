@@ -1,0 +1,19 @@
+#include "../QtCircularBuffer.h"
+#include <string.h>
+
+int main()
+{
+  QtCircularBuffer buffer;
+  IOHeader	   header;
+
+  header.op = 001;
+  header.length = strlen("this is the data");  
+  buffer.writeInBuffer(header, "this is the data");
+  header.op = 002
+  header.length = strlen("another bit of data");  
+  buffer.writeInBuffer(header, "another bit of data");
+  header.op = 003
+  header.length = strlen("and another one");  
+  buffer.writeInBuffer(header, "and another one");
+  
+}

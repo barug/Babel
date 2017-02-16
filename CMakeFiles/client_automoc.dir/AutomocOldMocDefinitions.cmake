@@ -1,0 +1,1 @@
+set(AM_OLD_COMPILE_SETTINGS "QT_CORE_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_NO_DEBUG;QT_WIDGETS_LIB ~~~ /home/barth/projets_epitech/tek3/c++/tmp;/home/barth/projets_epitech/tek3/c++/tmp/./src/Client/QtBabel;/usr/include/qt;/usr/include/qt/QtWidgets;/usr/include/qt/QtGui;/usr/include/qt/QtCore;/usr/lib/qt/mkspecs/linux-g++;/usr/include/qt/QtNetwork;/usr/include ~~~  ~~~ FALSE ~~~ ")

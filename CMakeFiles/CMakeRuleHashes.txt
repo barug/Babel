@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+ec0769ecfe2cde6117286fe7c217854f CMakeFiles/client_automoc
+69def9c669abd746f5e3cbb1dca95eec CMakeFiles/server_automoc

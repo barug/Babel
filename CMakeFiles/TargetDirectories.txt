@@ -1,0 +1,6 @@
+/home/barth/projets_epitech/tek3/c++/tmp/CMakeFiles/rebuild_cache.dir
+/home/barth/projets_epitech/tek3/c++/tmp/CMakeFiles/server.dir
+/home/barth/projets_epitech/tek3/c++/tmp/CMakeFiles/edit_cache.dir
+/home/barth/projets_epitech/tek3/c++/tmp/CMakeFiles/client.dir
+/home/barth/projets_epitech/tek3/c++/tmp/CMakeFiles/server_automoc.dir
+/home/barth/projets_epitech/tek3/c++/tmp/CMakeFiles/client_automoc.dir
